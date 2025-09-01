@@ -20,7 +20,7 @@
   - Align polygonal annotations (e.g., from Omero) to spatial transcriptomics data.
 
 - **Flexible Registration Options**  
-  - Uses [Valis](https://github.com/choosehappy/valis) for both rigid and non-rigid image registration.  
+  - Uses [Valis](https://github.com/MathOnco/valis) for both rigid and non-rigid image registration.  
   - Outputs are saved directly to a SpatialData object.
 
 - **Modular Backend Design**  
